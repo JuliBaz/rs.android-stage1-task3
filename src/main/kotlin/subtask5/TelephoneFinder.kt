@@ -1,7 +1,5 @@
 package subtask5
 
-import kotlin.reflect.KClass
-
 class TelephoneFinder {
 
     // TODO: Complete the following function
